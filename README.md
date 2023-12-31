@@ -53,7 +53,7 @@ python -m venv env
 
 ### Env Variables
 
-Create a .env file in then root and add the following
+Create a .env file in the root and add the following variables
 
 ```
 DB_NAME = aws rds database user_name
