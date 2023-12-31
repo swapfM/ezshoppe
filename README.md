@@ -2,6 +2,8 @@
 
 > This is an e-commerce website project developed using ReactJS, Django Rest Framework, AWS RDS PostgreSQL, and AWS S3 for storage.
 
+## ✨ [Live Link - EzzShoppe](https://ezzshoppe-9e2a87ca9ef0.herokuapp.com/)
+
 ### Project Overview
 
 The goal of this project was to create a robust e-commerce platform that provides users with an intuitive interface to browse products, add them to their cart, and complete purchases securely. The application is built using ReactJS for the frontend, Django Rest Framework for the backend, and utilizes AWS RDS PostgreSQL for the database and AWS S3 for storing media files.
